@@ -1,2 +1,2 @@
 # DariuszPietka.github.io
-My GitHub user site
+My GitHub user site.

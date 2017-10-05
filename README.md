@@ -1,2 +1,2 @@
-# dariusz.pietka.github.io
+# DariuszPietka.github.io
 My GitHub user site
